@@ -1,6 +1,6 @@
 # SemCoder Test Case Generation
 
-This repository contains our Colab notebook implementation for evaluating semantic-aware test case and oracle generation, comparing SemCoder with DeepSeek Coder variants.
+This repository contains our Colab notebook implementation for evaluating semantic-aware test case and oracle generation, comparing SemCoder with DeepSeek Coder variants. For best results, please always use the most recent notebook (date is mentioned in the notebook title).
 
 ## Overview
 
